@@ -1,3 +1,6 @@
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+
 class Main {
     public static void main(String[] args) {
         System.out.println("Try programiz.pro");
@@ -97,11 +100,42 @@ class Main {
             System.out.println(i+" index val is "+n[i]);
         }
         
+        // step -4 deletion oparation
+        
+        // we required index where we are deleting
+        
+        int idxToDel =3;
+        
+        if ( idxToDel >=0 && idxToDel < cz){
+        
+        for(int i= idxToDel ; i< cz-1;i++){
+            n[i]=n[i+1];
+        }
+        
+        // manually change it last index to zero
+        n[cz-1]=0;
+        cz--;
+        
+        
+        }
+        
+        System.out.println("________after Deletion oparation ______ ");
+        
+        
+        System.out.println("current size is "+ cz);
+        
+        for(int i=0;i<n.length;i++){
+            System.out.println(i+" index val is "+n[i]);
+        }
         
         
         
         
         
+        
+        
+    }
+}   
         
         
         
