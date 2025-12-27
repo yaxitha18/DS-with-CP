@@ -12,3 +12,5 @@ output of task4.java
 <img width="684" height="502" alt="Screenshot 2025-12-27 143515" src="https://github.com/user-attachments/assets/589edbda-a957-4940-a5b1-a642ede449b0" />
 output of task5.java
 <img width="482" height="224" alt="Screenshot 2025-12-27 144429" src="https://github.com/user-attachments/assets/6ebee121-64a8-4235-a49d-b0509a184dfb" />
+output of task6.java
+<img width="511" height="263" alt="Screenshot 2025-12-27 152515" src="https://github.com/user-attachments/assets/5e0c1b42-f0c2-426b-9463-ab51ac81e7d1" />
