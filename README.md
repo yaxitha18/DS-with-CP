@@ -15,4 +15,4 @@ output of task5.java
 output of task6.java
 <img width="511" height="263" alt="Screenshot 2025-12-27 152515" src="https://github.com/user-attachments/assets/5e0c1b42-f0c2-426b-9463-ab51ac81e7d1" />
 output of task7.java
-"C:\Users\palla\OneDrive\Pictures\Screenshots\Screenshot 2026-01-21 160735.png"
+<img width="579" height="575" alt="Screenshot 2026-01-21 160735" src="https://github.com/user-attachments/assets/c6d79aab-4d2f-4f81-9d67-c02e8dddf4f1" />
