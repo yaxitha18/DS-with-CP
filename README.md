@@ -19,3 +19,6 @@ specific initializationof aaray
 
 # output of task7.java
 <img width="579" height="575" alt="Screenshot 2026-01-21 160735" src="https://github.com/user-attachments/assets/c6d79aab-4d2f-4f81-9d67-c02e8dddf4f1" />
+
+# output of task 9.java
+![WhatsApp Image 2026-01-23 at 2 33 21 PM](https://github.com/user-attachments/assets/fa03afa1-29f7-498b-9d47-8a99a7d3a14f)
