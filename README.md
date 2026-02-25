@@ -31,3 +31,6 @@ specific initializationof aaray
 
 # output of task 12.java
 ![WhatsApp Image 2026-02-18 at 3 45 13 PM](https://github.com/user-attachments/assets/63e77ffb-ea83-4090-89d2-e42c8f3f0af5)
+
+# output of task 13.java
+<img width="503" height="290" alt="Screenshot 2026-02-25 160038" src="https://github.com/user-attachments/assets/a8616b31-d51c-4b20-b851-9b856235e04a" />
